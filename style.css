@@ -262,6 +262,9 @@ input {
     border: none;
     border-radius: 10px;
 }
+.second__btn button:hover{
+    background-color: var(--Strongcyan);
+}
 
 .content_cointain {
     display: flex;
